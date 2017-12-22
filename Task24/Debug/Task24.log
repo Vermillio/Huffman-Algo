@@ -1,0 +1,6 @@
+﻿  TrNd.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task24\task24\trnd.h(20): warning C4091: typedef : пропускается слева от "values", когда ни одна переменная не объявлена
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task24\task24\trnd.h(34): warning C4091: typedef : пропускается слева от "TrNd", когда ни одна переменная не объявлена
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task24\task24\queue.h(25): warning C4091: typedef : пропускается слева от "Queue", когда ни одна переменная не объявлена
+  Task24.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task24\Debug\Task24.exe
+  Task24.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task24\Debug\Task24.pdb (Partial PDB)
